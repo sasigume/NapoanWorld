@@ -1,0 +1,1 @@
+<a href="https://shop.micrafan.com/welcome_np/" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'ads', 'click', 'マイクラファンショップ');"><img src="https://shop.micrafan.com/wp-content/uploads/sites/9/2016/06/napoan_micrafanshop_bannerA.png" width="300" height="250" alt="マイクランファン・ショップ"></a>
