@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* NotoSans */
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/NotoSans/NotoWebDemiLight.eot');
+    src: local('Noto Sans DemiLight'), url('fonts/NotoSans/NotoWebDemiLight.eot?#iefix') format('embedded-opentype'), url('fonts/NotoSans/NotoWebDemiLight.woff') format('woff'), url('fonts/NotoSans/NotoWebDemiLight.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/NotoSans/NotoWebMedium.eot');
+    src: url('fonts/NotoSans/NotoWebMedium.eot?#iefix') format('embedded-opentype'), url('fonts/NotoSans/NotoWebMedium.woff') format('woff'), url('fonts/NotoSans/NotoWebMedium.ttf')  format('truetype');
+}
+/* ----------------------------------- */
+#tinymce{
+    font-family:Noto Sans!important;
+    @import './content';
+    color: #080000;
+    font-size: 14px;
+    width: 100%;
+}

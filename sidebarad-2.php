@@ -1,0 +1,1 @@
+<a href="https://www.amazon.co.jp/dp/4802610785/" target="_blank" rel="nofollow" onclick="ga('send', 'event', 'ads', 'click', 'コマンドるんるん書籍');"><img src="/wp-content/uploads/2017/03/runrun-banner-3.png" width="300" height="250" alt="みんな大好き! マインクラフト るんるんプログラミング! コマンドブロック編"></a>
