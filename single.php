@@ -83,7 +83,7 @@ if ( get_the_tag_list() ) {
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <ins class="adsbygoogle"
         style="display:block"
-        data-ad-client="ca-pub-9812573632041546"
+        
         data-ad-slot="3183302710"
         data-ad-format="rectangle"></ins>
     <script>
@@ -105,7 +105,7 @@ the_content(''); ?>
   <!-- 記事内リード文下レスポンシブ -->
   <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-9812573632041546"
+     
      data-ad-slot="7431416716"
      data-ad-format="auto"></ins>
   <script>
@@ -132,7 +132,7 @@ endif; ?>
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <ins class="adsbygoogle"
       style="display:block"
-      data-ad-client="ca-pub-9812573632041546"
+      
       data-ad-slot="6873013516"
       data-ad-format="rectangle"></ins>
   <script>
@@ -234,7 +234,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <ins class="adsbygoogle"
         style="display:block"
-        data-ad-client="ca-pub-9812573632041546"
+        
         data-ad-slot="5807305512"
         data-ad-format="rectangle">
     </ins>

@@ -3,8 +3,8 @@
 <!-- アーカイブ記事ループ途中レスポンシブ -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-9812573632041546"
-     data-ad-slot="8674999517"
+     data-ad-client=""
+     data-ad-slot=""
      data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
